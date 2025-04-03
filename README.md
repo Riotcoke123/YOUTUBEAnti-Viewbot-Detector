@@ -6,6 +6,7 @@
    
 </head>
 <body>
+    ![images](https://github.com/user-attachments/assets/203d973f-364c-436c-99d0-7f3666bfe484)
     <h1>YouTube Anti-Viewbot Detector</h1>
     <p>This script detects potential viewbots on live YouTube streams by analyzing the ratio of viewers to active chat participants.</p>
     <h2>Features</h2>
