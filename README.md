@@ -19,7 +19,7 @@
     </ul>
     <h2>Installation</h2>
     <p>Clone the repository:</p>
-    <pre><code>git clone https://github.com/Riotcoke123/YOUYUBEAnti-Viewbot-Detector.git</code></pre>
+    <pre><code>git clone https://github.com/Riotcoke123/YOUTUBEAnti-Viewbot-Detector.git</code></pre>
     <p>Install dependencies:</p>
     <pre><code>pip install google-api-python-client requests</code></pre>
     <h2>Usage</h2>
