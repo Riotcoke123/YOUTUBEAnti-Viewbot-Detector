@@ -57,7 +57,7 @@ def detect_viewbot(viewers, chat_messages, unique_chatters):
     return "Viewer activity seems normal.", real_viewers, bot_viewers
 
 def save_data(data):
-    with open("C:\\Users\\srrm4\\Desktop\\data.json", "w") as f:
+    with open("data.json", "w") as f:
         json.dump(data, f, indent=4)
 
 def main():
