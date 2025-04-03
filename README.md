@@ -34,7 +34,7 @@
     <p>The script estimates real viewers using:</p>
     <pre><code>real_viewers = unique_chatters * 3</code></pre>
     <p>If the chat activity is unusually low compared to viewer count, a viewbot warning is issued.</p>
-    <h2>License</h2>
-    <p>This project is open-source and available under the MIT License.</p>
+<h2>License</h2>
+    <p>This project is open-source and available under the GNU General Public License v3.0.</p>
 </body>
 </html>
